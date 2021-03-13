@@ -1,0 +1,30 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Drishyam",
+      "posterPath": "../images/d.jpeg",
+      "favourite": false
+    },
+    {
+      "id": 2,
+      "title": "Lucifer",
+      "posterPath": "../images/lu.jpeg",
+      "favourite": true
+    },
+    {
+      "id": 3,
+      "title": "Driving License",
+      "posterPath": "../images/dl.jpeg",
+      "favourite": true
+    }
+  ],
+  "favourites": [
+    {
+      "id": 3,
+      "title": "Driving License",
+      "posterPath": "../images/dl.jpeg",
+      "favourite": true
+    }
+  ]
+}
